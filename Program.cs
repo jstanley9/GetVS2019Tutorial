@@ -6,7 +6,7 @@ namespace GetVS2019Tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!\nI'm home!");
         }
     }
 }
